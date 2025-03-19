@@ -1,0 +1,790 @@
+[CH3+] . C C = O
+C . [CH2+] C
+[C+] # C [C] = C = C = C = C . [C-] # C C # C C # C
+N . [C+] C # C
+[S] . [NH+]
+[N] . Br Br
+[C] . [OH+]
+[H] . [CH] = O
+[C-] # C [CH2+] . [S+]
+[S] . [OH]
+[CH+] = C = S . [O-]
+C = C = C . N # [NH+]
+C # C [C+] = C = S . [C-] # N
+[CH+] = [C] C # C C # C C # C C . [O-]
+[C] # C C # [C-] . [OH3+]
+[SH3+] . [C-] # C C # C [C] = C = [C+] C # [C-]
+[S] . c 1 c [cH+] 1
+[CH-] . [NH4+]
+[C] . [C+] # C [C] = C = C = C = C
+[O] . [C+] # C [C] = C = C = C = C
+[O] . F [CH] F
+[O] . S = C = S
+C = O . [OH+]
+[SH3+] . [C-] # C C # C
+C = [O+] . [C] # C C # C C # C C # C C # [C-]
+[HH] . [NH2-]
+[C] # N . N # [N+]
+[PH2] . [H+] . [H] [H]
+[S-] . [CH+] = N
+[C] . [OH]
+[O] . [C] # C C # C
+C # C C # C [C] = [CH+] . [C-] # C C # C
+[NH4+] . [C-] # C [C-] = C = C = C = [CH+]
+[N] = O . [CH2]
+[H+] . C # C C # C C # C C # C C # C
+C C # [O+] . [C-] # C [C-] = C = [CH+]
+[H] . C # C C # C
+C [S+] . [C] # C C # C C # C C # C C # [C-]
+O = O . [C] # [C+]
+[C] 1 = C = C 1 . C # C C # C [C] = [CH+]
+C C # C C # N . [C+]
+C = C . [C+] # C [C] = C = C = C = C
+[N] . [C+] # C [S-]
+[C-] # C . [CH+] = C = S
+[O] . [C+] # C C # C C # C [CH2-]
+N . N # [N+]
+[CH+] = [C] C # C C # C C # C C . [C-] # C [C+] C # [C-]
+C # C C # C . [CH+] C
+[Cl+] . [O-]
+[C] # C C # C C # [C-] . C # C [CH2+]
+C . [C+] # C [N]
+[N] = O . [O+] # [Si]
+[H] . [Mg] . [H+]
+C # C C # C C # C C # [NH+] . [OH-]
+[C+] . [H-]
+C # C C # C C # C C # [NH+] . [C-] # C [C-] = C = [CH+]
+[NH4+] . [C-] # C C # C C # C C # C C # C
+[O+] # [Si-] . [He+]
+[He+] . [SiH4]
+[C] # C C # C C # C . C # C [CH2+]
+S . [OH2+]
+[O] . [C+] # [Si]
+[N] . N # [N+]
+C C C = N
+O = S = O . [He+]
+O = [O+] . C = C C
+[He+] . N # C [CH] O
+[C] # C C # C C # C C # C C # C . [H+] . [H] [H]
+C S . [O+]
+C = O . C = [O+]
+[C+] # C C # C [P-] . [CH+] = O
+[N] . [C] # C C # C C # N
+[H] . [CH5+]
+[NH2] . N # [N+]
+[C+] . [C+] # C C # C C # C [N-]
+C [OH2+] . O = C O
+[C] # C . [C-] # C [CH2+]
+[C] . [NH+]
+[C+] # C [C] C # [C-] . [H+] . [H] [H]
+[H] . [C-] # C C # C [CH2+]
+[O] . [CH+] = [N+] = [Si-]
+[C+] . C = C = C
+N . [C+] C # C
+[CH] = [CH+] . C C # N
+[N] . [CH+] C
+C # C C # C C # C C # C . [CH3+]
+O = O . [P+]
+[C+] # C [C-] = C = [CH+] . [C-] # N
+[C] # N . C O
+[O] . [CH] = O
+[S] . C # C [C] = [CH+]
+S . [C+] C # C
+[C] # C . C # C [CH2+]
+[C] C # [C-] . [S+]
+[H+] . [H] [H] . c 1 c c c c c # 1
+[N] . [C-] # C [C] = C = [CH+]
+C = C = C = [C+] C # C C . [C-]
+[C-] # [N+] C # C . [H+] . [H] [H]
+C 1 = C C = 1 . [He+]
+[CH+] = O . [S-]
+[C-] # C C # C . [C+] [N+] # [C-]
+C # C [C+] = N . [C-] # C C # N
+[O] . [C] # P
+[C-] # C C # C C # N . [CH3+]
+N # C C [O] . [PH]
+[C-] # C [C+] = N . [OH3+]
+C # C C # C C # C C # C [C] = [CH+] . [H-]
+[C-] # C [C+] = N . [H+]
+[CH2] . [H+]
+C # C C # C C # N . [He+]
+[H] . [CH] = C
+[C] # C . [CH+] C
+[C-] # C [CH2+] . [CH+] = C
+C 1 = C C = 1 . [CH+] = C
+[N] . [C+] # C [C] = C = C = C = [CH-]
+[O] . [NH2]
+[CH] . O = O
+[C] = [F+] . [C] # C C # C C # [C-]
+[c] 1 c [cH+] 1 . [C-]
+[C+] # [C-] . C = C
+[NH] . [NH+]
+[SH3+] . [C-] # C C # C C # C C # C
+[C] . C = S
+[C] . [CH2+] C
+[H+] . N # C S
+C # C [C+] = C . [C-] # C C # N
+N . [C+] S
+[CH] . [N] = O
+C N . [He+]
+[H+] . C C = N
+Cl . [He+]
+[He+] . [O-]
+[C] C # [C-] . C = [O+]
+N . [PH3+]
+[OH] . O = c 1 c c 1
+C = O . [CH4+]
+[Si] . [CH2]
+[CH+] C . [O-]
+[HH] . [C+] # C C # C [C] = C = C = C = C
+[Cl] . [H+]
+[SH+] . [C-] # C [C+] C # [C-]
+[C+] # [C-] . C = [O+]
+C C ( C ) = O . [OH3+]
+C = [O+] . [C-] # C C # C C # C C # C
+C # C . C # C C # C [C] = [CH+]
+[Na+] . [C] # C C # C C # C C # C C # [C-]
+C # C . [CH+] = O
+[C+] # C [C] = C = C . [OH-]
+[Si] . C # C [CH2+]
+[CH] = O . [C+]
+[N] . C = C
+[C+] . [CH] = C C # C
+[C+] # C C # C C # C C # C C # [C-] . [He+]
+C # C C # C [C+] = C = C = C . [C-] # C C # C [C-] = C = C = C = [CH+]
+C # C C # C [C+] = N . [OH-]
+[C-] # C [CH2+] . [H+]
+[HH] . [C] 1 = C = C 1
+[NH4+] . [O-]
+[CH] = O . [C+] # C
+C # C C # C . [c] 1 c [cH+] 1
+[H-] . C # C [C+] = C
+C # N . [O+]
+C # C C # C [C+] = C = C . [C] # C C # C C # C C # [C-]
+C = C = C = C = C = C = [C] [CH2+] . [C] # C C # C C # C C # [C-]
+N # N . [NH4+]
+C 1 = C C = 1 . [H+] . [H] [H]
+[NH2] . [C] # [O+]
+[F] . [H+] . [H] [H]
+[C+] # C C # C [C-] = C = [C+] C # [C-] . [He+]
+[C+] . [C-] # C C # C [C] = C = [C+] C # [C-]
+[H] . [N+]
+[CH] = C . [C+] # C [C] = C = C
+[Na+] . [OH-]
+[O] . [C+] # C C # C C # C C # C C
+[C] # C C # C C # C . C # C [CH2+]
+[N] . [CH] = O
+C # C C # C [C+] = C = C = C . [C] # C C # C C # [C-]
+C [NH]
+[C-] # [N+] C # C . [CH3+]
+[Fe+] . [O-]
+[O] . N # [Si]
+[NH] O . [CH2] C
+[C+] # C C # C C # [C-] . [He+]
+[C] . C # C [CH2+]
+N # C C = O . [O] O
+[CH2] . [OH2+]
+[S] . [CH2+]
+[C+] # C [C-] = C = C = C = [CH+] . [C-] # C C # C
+C C # N . [H+]
+C [Si] . [C+]
+[N] C # N . [CH] = O
+[C] # N . [OH]
+O [C+] = S . [C-] # C [C+] C # [C-]
+[H+] . N # C [NH]
+[He+] . [CH2] C # N
+C = C = C . [H+] . [H] [H]
+[O] [O-] . C # C [C+] = C
+C # C [C+] = C = C = C . [C] # C C # C C # [C-]
+[O] . [C+] # C C # C C # C
+C # C C # C [C+] = N . [C-] # C C # C [C-] = C = C = C = [CH+]
+N . [N+]
+[C] # C C # C . [CH+] = O
+[Si+] . C O
+C # C . C # C [C+] = N
+[S+] . [C-] # C C # N
+[O] . C C ( C ) Cl
+[C] . [CH] = C C # C
+[H] . C = C
+[S] . [CH2] C
+[CH+] C . [SiH4]
+[C] # C C # C C # C . [C+] = C = C
+[O] [O-] . C # C [CH2+]
+[C-] # C C # N . [CH] = [CH+]
+[SH3+] . [C-] # C C # C [C-] = C = C = C = [CH+]
+[S] . [OH2+]
+[C+] . C C C
+C O . [H+]
+[HH] . [C+]
+O = O . [CH2]
+[C-] # C [N+] # C . [CH3+]
+[C-] # C C # C C # C C # C . [CH+] = C
+[H+] . C N
+[NH] . [C+] # C [S-]
+[N] . [CH3+]
+[CH+] = O . [C-] # C C # C C # C C # C
+[O] . C = [N]
+[CH] . [C+] # C C # C [C-] = C = [C+] C # [C-]
+C # C C . [CH] = [CH+]
+O . [P+]
+[F+] . [C-] # C C # C [C] = C = [C+] C # [C-]
+[CH+] C . [C-] # C C # C
+[N] . [C+] # C C # C C # C C # C C
+C # C . [CH] = [CH+]
+[C+] # C C # C C # C C # C C # [C-] . [He+]
+[NH2] . [CH]
+[C] . [C+] # C C # C C # [C-]
+[C-] # C [CH2+] . [He+]
+[N] = O . [CH3+]
+[N] . [C] # C C # C C # C C # C C # [C-]
+C # C C # C [C+] = N . [C-] # C C # C
+C = P . [He+]
+[HH] . [O+]
+[C] . N # C O
+C # C . O = C = [O+]
+[He+] . [C-] # C [C-] = C = [CH+]
+[C+] . [CH] = C C # C
+C # N . [H+]
+[S+] . [C-] # C [C-] = C = [CH+]
+C = C = C = [C+] C # N . [O-]
+C . [C+] # C
+C # N . [H+]
+O = O . [C+] # C C # C C # C [CH2-]
+[NH4+] . [H-]
+[C-] # C [C] = C = [CH+] . [C+]
+[C] = [F+] . [C-] # C [C] = C = [C+] C # [C-]
+C # C C # C [C+] = N . [C-] # C C # N
+[N] . [C-] # C [C-] = C = C = C = [CH+]
+C = C = C = [C+] C # N . [C-] # N
+[HH] . [C+] O
+[O] . [O] [N+] ( = O ) [O-]
+[C] . [C+] # C C # C C # C C # [C-]
+[H+] . [H] [H] . N = C = N
+C N . [CH+] = O
+[C] # C . C # C [CH2+]
+[HH] . [SH+]
+C # C C # C C # C C # [NH+] . [C-] # C C # C C # C C # C C # C
+[C+] # C . C # C C # N
+C O . [H+]
+[N] . C O
+C [C] = N
+[S] . [CH2] C
+[N] . [CH+] = C = [CH-]
+[Si-] # [S+] . [CH+] = O
+[C-] # C [C-] = C = C = C = [CH+] . [O+] # [Si]
+[C] . [C-] # C C # C [CH2+]
+[HH] . [C+] # [Si]
+C = C = C = [C+] C # C C . [S-]
+[C] # C . [CH+]
+C # N . C # C C # C [C+] = C = C = C = C = C
+[C] # [C-] . [H+]
+C . [C+] # C [C+] = C = [N-]
+[O] . [c] 1 c [cH+] 1
+C O . [PH3+]
+[S] . [CH]
+C # C C # C [C+] = C = C = C . [C-] # C [C] = C = [C+] C # [C-]
+[S+] . C = C
+[N] = O . [CH2+]
+[Fe] . [S+]
+N # C C [O] . [O]
+[Fe] . [OH3+]
+[NH2] . [C-] # [S+]
+[He+] . [C-] # N
+[C] # C C # C C # C C # C C # N . [H+] . [H] [H]
+C # C C . [CH] = [CH+]
+[N] . [SH]
+N . C C [O+]
+C = N . [H+]
+S [SH2+] . [C-] # C C # C [C] = C = [C+] C # [C-]
+[C] # C C # C C # C C # [C-] . [CH+] = C
+[C] # [C-] . [S+]
+[C+] # C C # C C # C [CH2-] . [CH] = [CH+]
+[OH] . [NH3+]
+[O+] = P . [C-] # C [C-] = C = [CH+]
+[C+] # C C # C [C-] = C = C = C = [CH+] . [C-] # N
+[C] . [C] # C C # N
+[CH+] = N . [C-] # C C # C C # C C # C
+[Na+] . [C-] # C C # C [C-] = C = C = C = [CH+]
+O . [CH+] = C
+[F+] . [C-] # C C # C C # C
+C . C = [O+]
+[N] = O . [CH2]
+[H+] . [C-] # C C # C [C] = C = [C+] C # [C-]
+C # C . [CH+] = [C] C # N
+[O+] = S . [O-]
+[S-] . C # C [CH2+]
+[O] . C = C
+[H] . N
+[C+] . C = C C # N
+[H+] . N # C [C] = N
+[N] = C = C = O . [CH] = S
+[C-] # [N+] [Si] . [CH+] = O
+[C+] # C [C-] = C = C = C = [CH+] . [H-]
+[C] # C C # [C-] . C # C [C+] = C
+[N] = C = C = O . O = P
+C = C C # N . [H+]
+[Si+] . [C-] # C [C-] = C = [CH+]
+N = C O . [H+] . [H] [H]
+C # N . [O+]
+[C-] # C [C-] = C = C = C = [CH+] . [CH+] = C
+[HH] . [NH3+]
+[O] . [C+] # C [C] C # [C-]
+C O . [C+]
+C . [CH] = [CH+]
+C [Si] . [H+]
+[H+] . C C [C] = N
+[H+] . C = N
+[O] . C # C C # C [C+] = C = C = C = C = C
+[N] . C # C [C] = [CH+]
+[S] . [C-] = C = [CH+]
+[Cl] . C O C
+[N] . [C+] C # [C-]
+C # C . [CH+] = N
+C = C . C [CH3+]
+[H] . [CH2] O C
+C = C = C = C = C = C = [C] [CH2+] . [C-] # C C # C C # C C # C C # C
+S . [CH+] = O
+[He+] . [OH-]
+C . [C+] = C = C
+[OH+] . C C
+[C-] # C C # C . [C+] # C C # C [S]
+[NH] . [NH]
+[OH3+] . [N] C # N
+[N] = O . [N+]
+O = C = [O+] . O = C = S
+C # C [CH2] . [He+]
+[C] # C C # C C # [C-] . [C+] [N+] # [C-]
+[CH] . C = O
+[C-] # C C # C C # N . C # C [C+] = C
+[C+] # C C # C C # C C # [C-] . [H+]
+[C-] # C [C-] = C = [CH+] . [CH+] = N
+[CH2] . [CH2]
+[C+] . N # C C [O]
+[C-] # [O+] . [OH2+]
+C # C . C # C [CH2+]
+[CH] . [C-] # C C # [S+]
+N # [NH+] . [S-]
+C # C C # C [C+] = C = C = C . [C-] # C C # C C # C C # C C # C
+C # C C # C [C] = [CH+] . [C] # C C # C C # C C # [C-]
+[C-] # C C # C C # N . C = [O+]
+C C # C C # C C # N . [He+]
+[O] . C # C C C
+[S] . [CH+]
+[OH-] . [O+]
+C = C = C = [C+] C # C C . [C] # C C # C C # C C # [C-]
+N O . [He+]
+[C-] # C C # C C # N . [CH+] = C = S
+[O] . [C] # C C # C C # [C-]
+S [SH2+] . [C-] # C C # C
+[HH] . [SiH+]
+[He+] . C # C C # C C # C C # C C # C
+[Mg+] . [C-] # C C # C C # C C # C
+[C] . P
+[C-] # C C # [O+] . [H+] . [H] [H]
+[N] . C # C [C+] = C
+N # [Si] . [H+] . [H] [H]
+C = C = C = [C+] C # N . [C] # C C # C C # [C-]
+[C+] . C C C
+[CH+] = N . [C] # C C # C C # C C # C C # [C-]
+[C] # [C-] . [CH+] = N
+[C-] # N . C # C C # N
+[NH] . [C+] # C [S-]
+[C] # C C # C C # [C-] . [CH+] = C
+N [O+] . [C-] # C C # C
+O = O . [C+] # N
+[Mg+] . [C-] # C C # C [C-] = C = C = C = [CH+]
+[He+] . N # C [CH] O
+C # C C # C . [C+]
+[C] # C . C # C C # C C # C C # N
+[N] . [SiH]
+[O] . F C ( F ) ( Br ) C ( F ) ( F ) Br
+[C-] # [N+] C # C . [C+]
+C C = N
+[H] . [S+]
+[H+] . [H] [H] . [N] C # N
+[C] . C # C C # C
+C # C . [S+]
+[HH] . [CH] = [CH+]
+C # C C # C C # C C . [H+] . [H] [H]
+C # C C # C . [He+]
+[He+] . C = C C # N
+[H-] . [CH3+]
+C # C . [C] C # [C+]
+O = O . [S+]
+[C-] # C . [S+]
+[N-] = [N+] = O . [O+]
+C C # C [CH4+] . C C # N
+C # C . [CH+] = [C] C = C
+[O+] = S . C = C = C
+[N] . [CH]
+[C+] . C = C C
+[O] . [N] = O
+[H+] . [H] [H] . C C = O
+C # C . [C+] # C [C] = C = C = C = C
+[C] # C C # C C # C C # [C-] . C # C [C+] = C
+[CH2] C . [H+] . [H] [H]
+[N] . [C] # C C # C C # [C-]
+C # C C # C C # N . [H+] . [H] [H]
+C O . [CH3+]
+[C] . C # C C # C C # C [C+] = C = [N-]
+[Mg] . [O+] = S
+[C] # C C # N . [H+] . [H] [H]
+[OH-] . [CH+] = N
+N O . [C+]
+C # C C # C C # C . [CH+] = C
+[O] [O-] . [Mg+]
+[S] . [CH+] C
+[N] . [C-] # C [C+] C # [C-]
+[CH] = O . [He+]
+[C+] # C [C] = C = C . [C-] # C C # C C # C
+[P] . [H+]
+[N] = O . [NH2]
+[C-] # C C # C [C-] = C = C = C = [CH+] . [O+] # [Si]
+[O] . [CH2]
+[C+] # C [C] = C = C = C = C . [O-]
+[C] 1 = C = C 1 . [He+]
+O = C O . [H+]
+[C+] . C = C
+[O] . O = C = O
+[Fe+] . [C-] # C [C-] = C = C = C = [CH+]
+[O] . C # C C
+[C] # [C-] . [CH+] = C
+[O] . N # C Br
+[Si] . [CH] = [CH+]
+C = O . [CH2+]
+[HH] . [N] = [C+] C # N
+[NH4+] . [S-]
+[C] C # [C-] . [OH3+]
+C # C C # C . [Si+]
+[CH] = [CH+] . C # N
+[H+] . C S
+C = C . [C+]
+[CH+] = C = S . [C-] # C C # C C # C C # C
+S . [O+]
+[O] . S = C = S
+[H+] . [H] [H] . C 1 # C [Si] 1
+[C-] # C [C] = C = [CH+] . [CH+] C
+[Mg+] . [C-] # N
+[H+] . [H] [H] . [N] = C C # N
+[O] . [CH] = [CH+]
+[CH3+] . C C = O
+[C-] # C C # C [C] = C = [C+] C # [C-] . [NH3+]
+[C] = [F+] . [C-] # C [C+] C # [C-]
+C # C [C+] = C = C . [C-] # C C # C [C] = C = [C+] C # [C-]
+C C # C C # C [CH4+] . [C-] # C [C] = C = [C+] C # [C-]
+[P] . C # C [C] = [CH+]
+[S] . [H+]
+[OH3+] . [C-] # C [C-] = C = [CH+]
+O [C+] = S . [C-] # C C # C C # C C # C C # C
+[C] # C C # C C # C C # [C-] . [CH] = [CH+]
+C # [Si] . [H+]
+[CH2] . [Si+]
+O . C = [O+]
+[He+] . N # C C O
+N # C C [O] . [O] O
+[O] . [C+] # C [O-]
+[C] # C C # C C # [C-] . [C+] # C C # C [S]
+C . [O+]
+C 1 = C = [Si] = 1 . [C+]
+N . C # [S+]
+C O . [N+]
+C # C C . [C+]
+[O] . [C] # C C # N
+[N] = O . O = [C+] O
+[CH+] = N . [C] # C C # C C # C C # C C # [C-]
+[C-] # C . [Si+]
+[C] = N . [OH2+]
+[P+] . [C-] # C [C-] = C = C = C = [CH+]
+[O] . [OH2+]
+[C] . C = S
+C # C C # [Si] . [He+]
+[C] # C . [OH+]
+C # C C # C C # C [C] = [CH+] . [C-] # C C # N
+[C-] # C [CH2+] . [He+]
+[C] # N . [OH-]
+C # C [C] = [CH+] . [C-] # C C # C
+[H+] . C = C = N
+[CH] = O . N = O
+[O] . [SeH2]
+[N] . [C+] # C C # C [N-]
+S [SH2+] . [C-] # C C # N
+C C # N . O = [C+] O
+O = O . [C+] # N
+C . [C] C # [C+]
+C # C C # C C . [C+]
+[O] . C [O]
+C C O . [He+]
+[CH] . N
+[O-] . O = O
+C # C . C # C [CH2+]
+[O+] = S . C = C
+C C = O . [H+] . [H] [H]
+[C-] # [Si+] . [He+]
+[F+] . [C-] # C C # C C # C C # C C # C
+[C+] # [C-] . [He+]
+[CH+] C . [C] # C C # C C # [C-]
+[C-] # C . [CH+] = N
+C # C C # C [C+] = C = C = C . [C-] # C C # C C # C C # C
+[C] # C C # C . [CH] = [CH+]
+[H+] . [C-]
+O = [Si] = O . [C+]
+[CH+] = C = [Si-] . [C+]
+[N] . N # C C # N
+[HH] . [NH]
+[N] . [C] # C
+[CH+] = N . [C-] # C [C+] C # [C-]
+[CH] . [CH+] = N
+[C] # C C # C C # C C # C C # C . [H+]
+[CH] = O . [H+] . [H] [H]
+[O] . C # C [CH2+]
+[CH3] . C = O
+C # C C # C [C+] = N . [C-] # C [C-] = C = [CH+]
+[NH] O . C = [N]
+[C] # N . [O+] O
+C # C [C+] = C = S . [C-] # C C # C C # C
+[O+] = S . C = C = C
+C = O . [He+]
+[O] . C C ( C ) ( C ) C
+[C] # N . [NH+]
+[C+] . C C
+C # C . [C+] = C = C
+[C-] # C . [CH+] = O
+[HH] . O = [N+] = O
+[C] # C C # C C # C C # C . [He+]
+O = [SiH2] . [He+]
+C S . [H+]
+[CH+] = N . [C] # C C # C C # C C # [C-]
+[C] 1 = C = C 1 . [He+]
+[HH] . [N+]
+[C-] # C . [CH+] = N
+[C-] = C = [CH+] . [H+]
+[HH] . C # C C # C [C] = [CH+]
+C C # [O+] . [C-] # C C # C [C-] = C = C = C = [CH+]
+O = O . [OH+]
+[C-] # C C # [S+] . [OH3+]
+[CH+] = C . [C-] # C [C] = C = [C+] C # [C-]
+C = O . [CH2+]
+[C+] # C C # C C # [C-] . [CH+] = O
+[C-] # C C # C C # C C # C . C # C [C+] = C
+[NH4+] . [C-] # C C # C C # C C # C
+[C] . N # C C # N
+[N] . [C+] # C C # C C # C C # C C # [C-]
+[C] # C C # C . [C] = N
+[CH+] = O . N = C = N
+O = c 1 c c 1 . [H+] . [H] [H]
+O . [SiH+]
+[CH2+] O . C # C C # C
+[CH-] . [CH] = [CH+]
+C # C [C+] = N . [C-] # C [C-] = C = [CH+]
+[N] . [CH] = C
+[OH3+] . [C-] # C C # C C # C C # C C # C
+[C] . [CH2] C C
+O = S = O . [C] # [O+]
+[O] . [C+] # C C # C [C] = C = C = C = C
+[CH] . [He+]
+[C+] # C C # C C # C C # C C . [C-] # C [C+] C # [C-]
+C # C C # C [C+] = C = C . [C-] # C C # C
+C # C C # C [C+] = C = C = C . [O-]
+[H+] . [N] C # N
+[C+] . [C] # C C # [C-]
+[H] . [SiH+]
+[N] . [O] O
+[He+] . N # C C O
+[N] . C # C [O]
+C # C C # C C # C . [CH+] C
+[C-] = C = [CH+] . [CH] = [CH+]
+[CH+] = C . C C
+[He+] . C = C = N
+O = O . O = S
+[He+] . N # C S
+C = O . [C+] # N
+[P+] . [OH-]
+[C] . O = [C+] O
+[C+] # C C # C C # C [CH2-] . [C+]
+N . [CH4+]
+[HH] . [CH3+]
+[S-] . C # C [C+] = C
+[O+] = P . [C-] # C [C-] = C = C = C = [CH+]
+[CH+] = [C] C # C C # C C # C C . [OH-]
+[NH3+] . [C-] # [S+]
+[HH] . N # [O+]
+C = C [CH2+] . [C-] # C C # N
+[C-] # C C # [S+] . [H+] . [H] [H]
+O [C+] = S . [C-] # C C # C [C] = C = [C+] C # [C-]
+[C-] # [S+] . [H+] . [H] [H]
+C = C . [N] = [C+] C # N
+C = [O+] . [C-] # C C # C [C-] = C = C = C = [CH+]
+[O] . [C+] # C
+C = P . [C+]
+C . [C+] # C
+[C] # C C # C . [C+] # C [C] = C = C
+[SiH2] . [C+]
+[CH+] = O . O = C O
+N # N . [He+]
+O = O . [He+]
+C # C C # C C # C . [CH3+]
+[O] . [CH] = C = S
+[O] . C [S]
+[C] # [C-] . [CH+] = O
+O . [NH2+]
+O = [P] . [He+]
+[H-] . [H+] . [H] [H]
+[H+] . C # [N+] [S-]
+[C] # C . [CH+] = [N]
+[N] . [CH2]
+[OH] . N # [NH+]
+[C-] # [N+] [Si] . [H+] . [H] [H]
+[N] . [C] # C C # C C # C
+C # N . [C] # [O+]
+[C+] . N = C = N
+[O] . [H+]
+[HH] . [Na+]
+[S] . [C+] = C = C
+[OH] . [CH2] C
+[CH] = C . [CH] = [CH+]
+C . [C] # [C+]
+[O+] S . [C-] # C [C-] = C = [CH+]
+[C] # N . [OH3+]
+[NH2] . C
+[C+] # C [O-] . [C+]
+[C-] . [C+] [N+] # [C-]
+[N] . [SiH3+]
+[C-] # [Si+] . [H+] . [H] [H]
+N = [Si] . [C+]
+c 1 c c c c c 1 . [H+] . [H] [H]
+C # C C # C . [CH3+]
+[CH+] = N . [C+] # C C # C C # C [N-]
+[O] . [C+] 1 = C C = C C = C 1
+N . [CH3+]
+[O] . C # C [C] = [CH+]
+[H] . [Na] . [He+]
+[C-] # N . [C+] [N+] # [C-]
+[OH-] . [CH3+]
+[Na] . [Si+]
+C # C C # C C # C C # C [C] = [CH+] . [C-] # C [C+] C # [C-]
+C # C C # C C # C [C] = [CH+] . [C-] # C [C] = C = [C+] C # [C-]
+[H+] . [H] [H] . c 1 c c c c c # 1
+C O . [O]
+[C] . N # C [O]
+[O] . [O] c 1 c c c c c 1
+N [O+] . [C-] # C C # C C # C
+[H] . [C+] # [C-]
+[HH] . [C] # C C # C C # [C+]
+[C+] # C C # C C # C [CH2-] . [C+]
+[N] . [H+] . [H] [H]
+[C] # P . [OH3+]
+[SH] . [H+] . [H] [H]
+[C+] . [C-] # C C # C [C] = C = [C+] C # [C-]
+[C-] # C C # C . C # C [CH2+]
+[C] = N . [H+]
+C O . [N+]
+N . [CH+] = N
+[CH+] = O . [C-] # C C # C [C-] = C = C = C = [CH+]
+[O+] = S . [C-] # C [C-] = C = C = C = [CH+]
+[CH+] C . [C-] # C [C] = C = [C+] C # [C-]
+O = O . C # C C # C C # C
+[PH3+] . S
+[H] . [C-] # C [C] = C = [CH+]
+N . [CH+] = [N]
+[N] . [C-] # C C # C C # C
+[NH] . [CH2]
+O = C = S . [CH4+]
+[OH] . C O
+[Si] . O = O
+[C-] # C C # C [CH2+] . [CH+] = O
+[C] . S = S
+C # C [CH2] . C # C C # C [C] = [CH+]
+C # C C . [H+] . [H] [H]
+S . [O+] = C = S
+[S] . [C+] = N
+C . [C+] C # C
+C # C [C] = [CH+] . [C-] # C C # C [C-] = C = C = C = [CH+]
+C # C [C+] = C . [S-]
+[OH] . [NH2]
+C = C . [OH3+]
+[C] . [CH2]
+[CH] = O . [C] # [C+]
+[Mg+] . [C-] # C [C+] C # [C-]
+C # C C # C . C # C [C] = [CH+]
+C # C C # C C # C C # [NH+] . [C-] # C C # C [C] = C = [C+] C # [C-]
+[O] . F [SiH] ( F ) F
+[H+] . [H] [H] . C = C = N
+[S] . [CH+]
+[C] . [NH2]
+[HH] . C # C [CH2]
+C = C . [C+]
+C # C [C+] = C = C . [O-]
+[C+] # C [S-] . [C+]
+[C] 1 = C = C 1 . [C+]
+[C] # C . [OH2+]
+N . [SH+]
+[C] # C C # [C-] . [CH+] = C
+[SH3+] . [C-] # C C # C C # C
+C # C [CH2] . [C+]
+[O] . C [Hg] C
+[C] # C C # C C # C C # C . [H+] . [H] [H]
+C # C C # C C # C [C] = [CH+] . [C-] # C [C-] = C = C = C = [CH+]
+[HH] . [C+] # C [C-] = C = C = C = [CH+]
+[F+] . [C] # C C # C C # C C # C C # [C-]
+[C+] . C = C C
+[H] . C C [C] = N
+C # C C # C C # C C # C [C] = [CH+] . [C-] # C [C-] = C = [CH+]
+C # C C # C [C+] = C = C . [C-] # C C # C C # C C # C C # C
+[N] . Cl [C] ( Cl ) Cl
+[CH+] C . [C-] # C C # N
+S [SH2+] . [C-] # N
+[O+] . O = S = O
+C # C [C+] = C = C . [C-] # C [C-] = C = [CH+]
+N . [C+] C # C
+[C] # C C # C . C # C [C+] = C
+[C] . [C+] # C [C-] = C = C = C = [CH+]
+[C] . [CH+] C
+[CH] = C . [CH] = [CH+]
+C # N . [OH-]
+C = P . [He+]
+C # C C # C C # C . [CH+] C
+[O] . [CH3]
+[C] . C # C C # C [C+] = C = [N-]
+[C] # C C # C C # C . [H+] . [H] [H]
+[C+] # C [C-] = C = [C+] C # [C-] . [He+]
+[O] . C = C
+[CH+] = C . C C
+[CH] . C = C C
+[CH-] . [N+]
+[C+] # [C-] . O = O
+[N] . [C] # C C # C C # C C # C
+[N] = O . [C-]
+[C-] # C C # C . N # [O+]
+[O] . [OH+]
+[C+] . C = C C
+[H] . C = C = [O+]
+[OH] . C # C C = O
+[C+] # [C-] . [N] = O
+O = C = S . [C+] C # C
+[H+] . [H] [H] . C C ( C ) = O
+[OH3+] . [C-] # C C # N
+C # C . [PH3+]
+[C] . C O C = O
+[C] # C C # C C # [C-] . [Si] # [S+]
+[HH] . [SH3+]
+C # C C # C . [CH] = [CH+]
+[O] . [C+] # C C # C [P-]
+[Fe] . [SH+]
+[O] . [SH+]
+[SH3+] . [C-] # C [C] = C = [C+] C # [C-]
+[S+] . [C-] # C C # C
+[Si] . [c] 1 c [cH+] 1
+[H] . O O
+C # C C # [S+] . [OH-]
+[C-] # [N+] C # C . [C+]
+[N] = O . [NH+]
+[O] . [CH2] N
+[Mg+] . [C] # C C # C C # C C # C C # [C-]
+C # N . [CH+] = C
+[C+] . N # C S
+N [O] . [C+]
+[SiH4] . [He+]
+[H+] . N = C = S
+[N] . C = C = C = [C+] C # C C
+C # C C # C C # C C # C [C] = [CH+] . [C] # C C # C C # C C # [C-]
+[N] . [CH] = C
